@@ -1,10 +1,5 @@
-# Ignorar base de datos
-storage/
-storage/*.sqlite
-
-# Ignorar archivo macOS
-.DS_Store
-
+=======
+>>>>>>> 0fc1af0a6d2cdf7d19fd8c23ee3147f957f01574
 # Logs
 logs
 *.log
